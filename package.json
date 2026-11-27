@@ -1,0 +1,5 @@
+{
+  "name": "mochiurl",
+  "type": "module",
+  "main": "src/index.js"
+}
